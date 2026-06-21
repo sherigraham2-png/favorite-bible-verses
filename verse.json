@@ -1,34 +1,179 @@
 [
   {
-    "reference": "1 Corinthians 13:4-5",
-    "verse": "Love is patient and kind; love does not envy or boast; it is not arrogant or rude. It does not insist on its own way; it is not irritable or resentful."
+    "reference": "2 Timothy 3:16-17",
+    "verse": "All Scripture is breathed out by God and profitable for teaching, for reproof, for correction, and for training in righteousness, that the man of God may be complete, equipped for every good work.",
+    "tags": []
   },
   {
-    "reference": "1 Thessalonians 5:16-18",
-    "verse": "Rejoice always, pray without ceasing, give thanks in all circumstances; for this is the will of God in Christ Jesus for you."
+    "reference": "Proverbs 2:6",
+    "verse": "For the Lord gives wisdom;\nfrom his mouth come knowledge and understanding.",
+    "tags": []
   },
   {
-    "reference": "Isaiah 40:31",
-    "verse": "But they who wait for the Lord\nshall renew their strength;\nthey shall mount up with wings like eagles;\nthey shall run and not be weary;\nthey shall walk and not faint."
+    "reference": "John 15:16",
+    "verse": "You did not choose me, but I chose you and appointed you that you should go and bear fruit and that your fruit should abide, so that whatever you ask the Father in my name, he may give it to you.",
+    "tags": []
   },
   {
-    "reference": "Isaiah 41:10",
-    "verse": "Fear not, for I am with you;\nbe not dismayed, for I am your God;\nI will strengthen you, I will help you,\nI will uphold you with my righteous right hand."
+    "reference": "Proverbs 22:6",
+    "verse": "Train up a child in the way he should go;\neven when he is old he will not depart from it.",
+    "tags": []
   },
   {
-    "reference": "Colossians 3:23-24",
-    "verse": "Whatever you do, work heartily, as for the Lord and not for men, knowing that from the Lord you will receive the inheritance as your reward. You are serving the Lord Christ."
+    "reference": "Deuteronomy 31:6",
+    "verse": "Be strong and courageous. Do not fear or be in dread of them, for it is the Lord your God who goes with you. He will not leave you or forsake you.",
+    "tags": []
   },
   {
-    "reference": "Proverbs 3:5-6",
-    "verse": "Trust in the Lord with all your heart,\nand do not lean on your own understanding.\nIn all your ways acknowledge him,\nand he will make straight your paths."
+    "reference": "John 14:27",
+    "verse": "Peace I leave with you; my peace I give to you. Not as the world gives do I give to you. Let not your hearts be troubled, neither let them be afraid.",
+    "tags": []
+  },
+  {
+    "reference": "1 John 1:9",
+    "verse": "If we confess our sins, he is faithful and just to forgive us our sins and to cleanse us from all unrighteousness.",
+    "tags": []
+  },
+  {
+    "reference": "2 Timothy 1:7",
+    "verse": "For God gave us a spirit not of fear but of power and love and self-control.",
+    "tags": []
+  },
+  {
+    "reference": "Psalm 119:105",
+    "verse": "Your word is a lamp to my feet\nand a light to my path.",
+    "tags": []
+  },
+  {
+    "reference": "Romans 12:2",
+    "verse": "Do not be conformed to this world, but be transformed by the renewal of your mind, that by testing you may discern what is the will of God, what is good and acceptable and perfect.",
+    "tags": []
+  },
+  {
+    "reference": "Matthew 11:28",
+    "verse": "Come to me, all who labor and are heavy laden, and I will give you rest.",
+    "tags": []
+  },
+  {
+    "reference": "Ephesians 6:11",
+    "verse": "Put on the whole armor of God, that you may be able to stand against the schemes of the devil.",
+    "tags": []
+  },
+  {
+    "reference": "James 1:22",
+    "verse": "But be doers of the word, and not hearers only, deceiving yourselves.",
+    "tags": []
+  },
+  {
+    "reference": "Psalm 42:11",
+    "verse": "Why are you cast down, O my soul,\nand why are you in turmoil within me?\nHope in God; for I shall again praise him,\nmy salvation and my God.",
+    "tags": []
+  },
+  {
+    "reference": "1 Chronicles 16:34",
+    "verse": "Oh give thanks to the Lord, for he is good;\nfor his steadfast love endures forever!",
+    "tags": []
+  },
+  {
+    "reference": "2 Chronicles 7:14",
+    "verse": "If my people who are called by my name humble themselves, and pray and seek my face and turn from their wicked ways, then I will hear from heaven and will forgive their sin and heal their land.",
+    "tags": []
+  },
+  {
+    "reference": "1 Thessalonians 5:11",
+    "verse": "Therefore encourage one another and build one another up, just as you are doing.",
+    "tags": []
+  },
+  {
+    "reference": "Psalm 73:26",
+    "verse": "My flesh and my heart may fail,\nbut God is the strength of my heart\nand my portion forever.",
+    "tags": []
+  },
+  {
+    "reference": "Galatians 5:22-23",
+    "verse": "But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control; against such things there is no law.",
+    "tags": []
+  },
+  {
+    "reference": "John 16:33",
+    "verse": "I have said these things to you, that in me you may have peace. In the world you will have tribulation. But take heart; I have overcome the world.",
+    "tags": []
+  },
+  {
+    "reference": "Ephesians 5:15-16",
+    "verse": "Look carefully then how you walk, not as unwise but as wise, making the best use of the time, because the days are evil.",
+    "tags": []
+  },
+  {
+    "reference": "2 Corinthians 3:17",
+    "verse": "Now the Lord is the Spirit, and where the Spirit of the Lord is, there is freedom.",
+    "tags": []
+  },
+  {
+    "reference": "Isaiah 43:2",
+    "verse": "When you pass through the waters, I will be with you;\nand through the rivers, they shall not overwhelm you;\nwhen you walk through fire you shall not be burned,\nand the flame shall not consume you.",
+    "tags": []
+  },
+  {
+    "reference": "Colossians 3:14",
+    "verse": "And above all these put on love, which binds everything together in perfect harmony.",
+    "tags": []
+  },
+  {
+    "reference": "Hebrews 11:1",
+    "verse": "Now faith is the assurance of things hoped for, the conviction of things not seen.",
+    "tags": []
   },
   {
     "reference": "1 Corinthians 15:58",
-    "verse": "Therefore, my beloved brothers, be steadfast, immovable, always abounding in the work of the Lord, knowing that in the Lord your labor is not in vain."
+    "verse": "Therefore, my beloved brothers, be steadfast, immovable, always abounding in the work of the Lord, knowing that in the Lord your labor is not in vain.",
+    "tags": []
+  },
+  {
+    "reference": "Colossians 3:23-24",
+    "verse": "Whatever you do, work heartily, as for the Lord and not for men, knowing that from the Lord you will receive the inheritance as your reward. You are serving the Lord Christ.",
+    "tags": []
+  },
+  {
+    "reference": "Isaiah 41:10",
+    "verse": "Fear not, for I am with you; be not dismayed, for I am your God; I will strengthen you, I will help you, I will uphold you with my righteous right hand.",
+    "tags": []
+  },
+  {
+    "reference": "1 Thessalonians 5:16-18",
+    "verse": "Rejoice always, pray without ceasing, give thanks in all circumstances; for this is the will of God in Christ Jesus for you.",
+    "tags": []
+  },
+  {
+    "reference": "1 Corinthians 13:4-5",
+    "verse": "Love is patient and kind; love does not envy or boast; it is not arrogant or rude. It does not insist on its own way; it is not irritable or resentful.",
+    "tags": []
+  },
+  {
+    "reference": "Isaiah 40:31",
+    "verse": "But they who wait for the Lord shall renew their strength; they shall mount up with wings like eagles; they shall run and not be weary; they shall walk and not faint.",
+    "tags": [
+      "Strength",
+      "Hope",
+      "Patience"
+    ]
+  },
+  {
+    "reference": "Proverbs 3:5-6",
+    "verse": "Trust in the Lord with all your heart, and do not lean on your own understanding. In all your ways acknowledge him, and he will make straight your paths.",
+    "tags": [
+      "Trust",
+      "Wisdom",
+      "Guidance"
+    ]
   },
   {
     "reference": "Joshua 1:9",
-    "verse": "Have I not commanded you? Be strong and courageous. Do not be frightened, and do not be dismayed, for the Lord your God is with you wherever you go."
+    "verse": "Have I not commanded you? Be strong and courageous. Do not be frightened, and do not be dismayed, for the Lord your God is with you wherever you go.",
+    "tags": [
+      "Courage",
+      "Strength",
+      "Faith"
+    ]
   }
 ]
