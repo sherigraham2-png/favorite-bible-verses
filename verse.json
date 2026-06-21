@@ -1,4 +1,34 @@
 [
-  { "verse": "TEST 1", "text": "If you see this, TRMNL works." },
-  { "verse": "TEST 2", "text": "Second verse rendering check." }
+  {
+    "reference": "1 Corinthians 13:4-5",
+    "verse": "Love is patient and kind; love does not envy or boast; it is not arrogant or rude. It does not insist on its own way; it is not irritable or resentful."
+  },
+  {
+    "reference": "1 Thessalonians 5:16-18",
+    "verse": "Rejoice always, pray without ceasing, give thanks in all circumstances; for this is the will of God in Christ Jesus for you."
+  },
+  {
+    "reference": "Isaiah 40:31",
+    "verse": "But they who wait for the Lord\nshall renew their strength;\nthey shall mount up with wings like eagles;\nthey shall run and not be weary;\nthey shall walk and not faint."
+  },
+  {
+    "reference": "Isaiah 41:10",
+    "verse": "Fear not, for I am with you;\nbe not dismayed, for I am your God;\nI will strengthen you, I will help you,\nI will uphold you with my righteous right hand."
+  },
+  {
+    "reference": "Colossians 3:23-24",
+    "verse": "Whatever you do, work heartily, as for the Lord and not for men, knowing that from the Lord you will receive the inheritance as your reward. You are serving the Lord Christ."
+  },
+  {
+    "reference": "Proverbs 3:5-6",
+    "verse": "Trust in the Lord with all your heart,\nand do not lean on your own understanding.\nIn all your ways acknowledge him,\nand he will make straight your paths."
+  },
+  {
+    "reference": "1 Corinthians 15:58",
+    "verse": "Therefore, my beloved brothers, be steadfast, immovable, always abounding in the work of the Lord, knowing that in the Lord your labor is not in vain."
+  },
+  {
+    "reference": "Joshua 1:9",
+    "verse": "Have I not commanded you? Be strong and courageous. Do not be frightened, and do not be dismayed, for the Lord your God is with you wherever you go."
+  }
 ]
